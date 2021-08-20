@@ -1,6 +1,6 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 # banana-anatomy-ontology
-Archived repository hosting the banana anatomy ontology
+Archived repository hosting the banana anatomy ontology, which was created for the Crop Ontology project.
 
 
 This work is licensed under a
